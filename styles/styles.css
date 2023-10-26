@@ -1,0 +1,111 @@
+/* Font import */
+/* ------------------------------------------------------------------------------------------------------------------------------ */
+
+@font-face {
+  font-family: "AvantGardeGothicMedium";
+  src: url(../fonts/Medium.otf);
+}
+
+/* Color palette */
+/* ------------------------------------------------------------------------------------------------------------------------------ */
+
+/* Normal */
+:root {
+  --white: #ffffff;
+  --grey: #dfe4e5;
+  --mint: #d4e9db;
+  --green: #46aa64;
+  --darkgreen: #379453;
+  --navy: #0a3250;
+  --black: #000000;
+}
+
+/* Accessibility */
+/* TO DO!!!!!! */
+
+/* Elements */
+/* ------------------------------------------------------------------------------------------------------------------------------ */
+
+body {
+  margin: 0;
+  font-family: 'AvantGardeGothicMedium';
+}
+
+a {
+  text-decoration: none;
+  color: unset;
+}
+
+li {
+  list-style-type: none;
+}
+
+button {
+  font-family: 'AvantGardeGothicMedium';
+  background: transparent;
+  text-decoration: none;
+  border: none;
+}
+
+/* General */
+/* ------------------------------------------------------------------------------------------------------------------------------ */
+
+.logo__duotone {
+  color: var(--green);
+}
+
+.button {
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+}
+
+/* Header */
+/* ------------------------------------------------------------------------------------------------------------------------------ */
+
+.header {
+  margin: 0;
+  padding: 1em;
+  box-shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1), 0 2px 4px -2px rgb(0 0 0 / 0.1);
+}
+
+.header__homebutton {
+  display: flex;
+  margin: 0.6em;
+  font-size: 2em;
+  font-weight: bold;
+  justify-content: center;
+}
+ 
+.header__nav {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  font-size: 1.2em;
+
+}
+
+/* Footer */
+/* ------------------------------------------------------------------------------------------------------------------------------ */
+
+.footer {
+  background-color: var(--navy);
+  color: var(--white);
+  padding: 1em;
+}
+
+.footer__logo a {
+  margin-bottom: 0.4em;
+  padding: 0.4em;
+  font-size: 2em;
+  display: flex;
+  justify-content: center;
+  border-bottom: 4px solid var(--white);
+}
+
+.footer__links {
+  display: flex;
+  justify-content: space-around;
+  font-size: 1.2em;
+  padding: 0.4em;
+}
