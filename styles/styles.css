@@ -24,8 +24,13 @@
 /* Accessibility */
 
 @media (prefers-contrast: more) {
+
   :root {
     --green: #135c29;
+  }
+
+  footer .logo__duotone {
+    color: var(--white);
   }
 }
 
@@ -235,6 +240,10 @@ iframe {
     font-size: 1.6em;
     margin: 0.4em;
   }
+
+  .main__hero {
+    min-height: 14em;
+  }
   
   .main__hero-title {
     font-size: 2.6em;
@@ -271,8 +280,10 @@ iframe {
 
 /* Size L-XL Device - Laptop-Desktop */
 
-@media (min-width: 1024px) {
+/* @media (min-width: 1024px) {
   
-  /* CSS */
+  .header {
+    display: flex;
+  }
   
-}
+} */
