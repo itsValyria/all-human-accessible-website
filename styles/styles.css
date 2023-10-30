@@ -223,3 +223,17 @@ iframe {
 /* ------------------------------------------------------------------------------------------------------------------------------ */
 
 /* Size M Device - Tablet */
+
+@media (min-width: 768px) and (max-width: 1023px) {
+  
+  /* CSS */
+  
+}
+
+/* Size L-XL Device - Laptop-Desktop */
+
+@media (min-width: 1024px) {
+  
+  /* CSS */
+  
+}
