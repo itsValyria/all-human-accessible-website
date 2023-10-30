@@ -176,6 +176,7 @@ aside {
   border-bottom: 4px solid var(--green);
   padding: 0 1em;
   margin-top: 0;
+  padding-bottom: 1em;
 }
 
 .main__contact {
@@ -226,8 +227,46 @@ iframe {
 
 @media (min-width: 768px) and (max-width: 1023px) {
   
-  /* CSS */
+  .header__homebutton {
+    font-size: 4em;
+  }
+
+  .header__nav {
+    font-size: 1.6em;
+    margin: 0.4em;
+  }
   
+  .main__hero-title {
+    font-size: 2.6em;
+  }
+
+  .main__description {
+    width: 80%;
+    margin: 2em auto;
+    font-size: 1.4em;
+  }
+
+  .main__info {
+    width: 80%;
+    font-size: 1.4em;
+  }
+
+  main img {
+    width: 32px;
+  }
+
+  iframe {
+    width: 85%;
+  }
+
+  .footer__logo a {
+    font-size: 3em;
+  }
+  
+  .footer__links {
+    font-size: 1.6em;
+    margin: 0.4em;
+  }
 }
 
 /* Size L-XL Device - Laptop-Desktop */
