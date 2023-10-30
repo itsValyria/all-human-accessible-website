@@ -146,6 +146,7 @@ aside {
   padding: 1em;
   background-color: var(--lightmint);
   border-radius: 8px;
+  box-shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1), 0 2px 4px -2px rgb(0 0 0 / 0.1);
 }
 
 .main__description p {
@@ -167,6 +168,7 @@ aside {
   padding: 1em;
   background-color: var(--lightmint);
   border-radius: 8px;
+  box-shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1), 0 2px 4px -2px rgb(0 0 0 / 0.1);
 }
 
 .main__info li {
@@ -196,6 +198,7 @@ iframe {
   width: 92%;
   height: 16em;
   border-radius: 8px;
+  box-shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1), 0 2px 4px -2px rgb(0 0 0 / 0.1);
 }
 
 /* Footer */
@@ -293,6 +296,12 @@ iframe {
     gap: 2em;
   }
 
+  .main__content {
+    display: flex;
+    justify-content: space-around;
+    margin: 6em 2em;
+  }
+
   .main__hero {
     min-height: 16em;
   }
@@ -301,8 +310,24 @@ iframe {
     font-size: 3em;
   }
 
+  .main__description {
+    max-width: 25em;
+    margin: 0;
+    padding: 2em;
+    padding-left: 1em;
+  }
+
+  .main__info {
+    max-width: 25em;
+    margin: 0;
+    padding: 2em;
+  }
+
   iframe {
-    width: 30%;
+    width: 28em;
+    height: 28em;
+    margin: 0;
+    padding: 0;
     
   }
 
