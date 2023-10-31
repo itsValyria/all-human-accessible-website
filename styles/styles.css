@@ -295,6 +295,17 @@ iframe {
   .header__nav {
     display: row;
     gap: 2em;
+    font-size: 2em;
+  }
+
+  .header__nav a:hover {
+    color: var(--green);
+    scale: 1.1;
+    transition: 0.4s;
+  }
+
+  .header__homebutton {
+    font-size: 4em;
   }
 
   .main__content {
@@ -304,29 +315,35 @@ iframe {
   }
 
   .main__hero {
-    min-height: 16em;
+    min-height: 18em;
   }
 
   .main__hero-title {
-    font-size: 3em;
+    font-size: 4em;
   }
 
   .main__description {
-    max-width: 25em;
+    max-width: 30em;
     margin: 0;
     padding: 2em;
     padding-left: 1em;
+    font-size: 1.4em;
   }
 
   .main__info {
-    max-width: 25em;
+    max-width: 30em;
     margin: 0;
     padding: 2em;
+    font-size: 1.4em;
+  }
+
+  .main__dateandtime {
+    border-bottom: 8px solid var(--green);
   }
 
   iframe {
-    width: 28em;
-    height: 28em;
+    width: 48em;
+    height: 45em;
     margin: 0;
     padding: 0;
     
@@ -342,7 +359,7 @@ iframe {
   .footer__logo a {
     border-bottom: none;
     margin: 0;
-    font-size:2.4em;
+    font-size: 3em;
   }
 
   .footer__links {
@@ -350,6 +367,12 @@ iframe {
     display: grid;
     gap: 1em;
     padding: 0.6em 0em 0.6em 2em;
+    font-size: 1.6em;
+  }
+
+  .footer__links a:hover {
+    color: var(--green);
+    transition: 0.4s;
   }
   
 }
