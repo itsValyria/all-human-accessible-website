@@ -1,4 +1,4 @@
-![image](https://github.com/itsValyria/all-human-accessible-website/assets/76444716/b1a7d0d2-bdaf-4889-b8c2-08a7369a77be)<!-- _Fork_ deze leertaak en ga aan de slag. Onderstaande outline ga je gedurende deze taak in jouw eigen GitHub omgeving uitwerken. De instructie vind je in: [docs/INSTRUCTIONS.md](https://github.com/fdnd-task/all-human-accessible-website/blob/main/docs/INSTRUCTIONS.md) -->
+<!-- _Fork_ deze leertaak en ga aan de slag. Onderstaande outline ga je gedurende deze taak in jouw eigen GitHub omgeving uitwerken. De instructie vind je in: [docs/INSTRUCTIONS.md](https://github.com/fdnd-task/all-human-accessible-website/blob/main/docs/INSTRUCTIONS.md) -->
 
 # De Buurtcampus - Detailpagina
 
@@ -30,6 +30,5 @@ Ik heb gebruik gemaakt van de ```prefers-contrast: more``` zodat ook mensen met 
 ![accessibility](https://github.com/itsValyria/all-human-accessible-website/assets/76444716/6ed9e683-6fcf-4aca-add6-f71e256a1e81)
 
 ## Licentie
-
 
 This project is licensed under the terms of the [MIT license](./LICENSE).
