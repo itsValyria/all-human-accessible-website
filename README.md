@@ -8,13 +8,14 @@ Een website gebouwd volgens de WCAG richtlijnen, waar buurtbewoners meer informa
 
   * [Beschrijving](#beschrijving)
   * [Kenmerken](#kenmerken)
-  * [Bronnen](#bronnen)
   * [Licentie](#licentie)
 
 ## Beschrijving
 <!-- In de Beschrijving staat hoe je project er uit ziet, hoe het werkt en wat je er mee kan. -->
 <!-- Voeg een mooie poster visual toe 📸 -->
 <!-- Voeg een link toe naar Github Pages 🌐-->
+
+![Sprint_3_-_Poster_Visual](https://github.com/itsValyria/all-human-accessible-website/assets/76444716/c3b5752b-88b9-48e1-94db-4c37cf981198)
 
 Deze website is een opvolging op de vorige opdracht, namelijk [the-client-website](https://github.com/itsValyria/the-client-website).
 
