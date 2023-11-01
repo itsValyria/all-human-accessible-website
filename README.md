@@ -4,10 +4,15 @@
 
 Een website gebouwd volgens de WCAG richtlijnen, waar buurtbewoners meer informatie kunnen vinden over een buurtinitiatief.
 
+Deze site is gebaseerd op de volgede user story:
+
+```Als buurtbewoner van Amsterdam West wil ik meer informatie over een initiatief kunnen bekijken, zodat ik kan zien of ik mij bij het initiatief wil aansluiten.```
+
 ## Inhoudsopgave
 
   * [Beschrijving](#beschrijving)
   * [Kenmerken](#kenmerken)
+  * [Implementeren](#implementeren)
   * [Licentie](#licentie)
 
 ## Beschrijving
@@ -29,6 +34,10 @@ Benieuwd? Check het [hier](https://itsvalyria.github.io/all-human-accessible-web
 Ik heb gebruik gemaakt van de ```prefers-contrast: more``` zodat ook mensen met slecht zicht de tekst duidelijk kunnen lezen. Meer weten hoe dit werkt? Lees het [hier](https://github.com/itsValyria/all-human-accessible-website/wiki/%F0%9F%8F%97%EF%B8%8F-Bouwen#-30-10-2023--toegankelijkheid)!
 
 ![accessibility](https://github.com/itsValyria/all-human-accessible-website/assets/76444716/6ed9e683-6fcf-4aca-add6-f71e256a1e81)
+
+## Implementeren
+
+Wil jij verder met deze code, dan kun je de repo gewoon forken en verder werken. Er zijn geen packages of frameworks gebruikt, enkel pure HTML en CSS.
 
 ## Licentie
 
