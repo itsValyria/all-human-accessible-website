@@ -26,6 +26,8 @@ Deze website is een opvolging op de vorige opdracht, namelijk [the-client-websit
 
 Op deze pagina kan iedereen, dus ook slechtzienden en doven, maar ook ouderen, meer informatie krijgen over een buurtinitiatief.
 
+Deze pagina was nodig zodat mensen meer informatie kunnen zien van een buurtinitiatief, om te besluiten of ze zich willen aansluiten. Ook kunnen ze via Google maps gelijk de locatie zien, zodat ze weten waar het is en of het bereikbaar is voor hen. Verder staan er ook contactgegevens van de initiatieven voor als er vragen zijn.
+
 Benieuwd? Check het [hier](https://itsvalyria.github.io/all-human-accessible-website/)
 
 ## Kenmerken
